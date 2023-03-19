@@ -3,7 +3,7 @@
 
 ## 📮Social
 
-<a href="https://t.me/podpisonn"><img src="icons/telegram.png" height="30px"></img></a>
+<a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
 ## 📚Technology stack
 ![React](https://img.shields.io/badge/-React-1d3c6e?style=flat-square&logo=react&logoColor=white)
