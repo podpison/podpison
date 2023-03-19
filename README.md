@@ -5,7 +5,7 @@
 
 <a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
-## 📚Technology stack
+## 📚 Technology stack
 ![React](https://img.shields.io/badge/-React-1d3c6e?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
