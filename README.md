@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Alexey (@podpison)
 ## I'm currently a frontend developer who is willing to join a team in which we'll create something incredible and awesome
 
-## 📮Social
+## 📮 Contact me
 
 <a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
