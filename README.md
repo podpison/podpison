@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Alexey (@podpison)
-## Maybie text me..?
+## Text me?
 
 ## 📮 Contact me
 
