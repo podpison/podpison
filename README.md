@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Alexey (@podpison)
-## I'm currently a frontend developer who is willing to join a team in which we'll create something incredible and awesome
+## Text me?
 
 ## 📮 Contact me
 
