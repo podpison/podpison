@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Alexey (@podpison)
-## Text me?
 
 ## 📮 Contact me
 
