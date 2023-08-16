@@ -4,8 +4,7 @@
 
 <a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
-## 📚 Technology stack
-![React](https://img.shields.io/badge/-React-1d3c6e?style=flat-square&logo=react&logoColor=white)
+## 📚 Technology stack]
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
