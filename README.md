@@ -4,6 +4,11 @@
 
 <a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
+## Some of my projects
+![Doorastos](https://doorastos.vercel.app/)
+![Welbexastos](https://welbexastos.vercel.app/)
+![Ariestos](https://ariestos.vercel.app/)
+
 ## 📚 Technology stack
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -12,8 +17,6 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-10102b?style=flat-square&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
