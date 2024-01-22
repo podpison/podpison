@@ -2,7 +2,7 @@
 
 ## 📮 Let us cooperate
 
-<a href="https://t.me/podpisonn"><img src="icons/telegram-icons8.png" height="30px"></img></a>
+<a href="https://t.me/podpisonn" target="_blank"><img src="icons/telegram-icons8.png" height="30px"></img></a>
 
 ## Some of my projects
 [Doorastos](https://doorastos.vercel.app/)<br />
