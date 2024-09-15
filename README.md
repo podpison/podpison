@@ -2,7 +2,7 @@
 
 ## 📮 Let us cooperate
 
-<a href="https://t.me/podpisonn" target="_blank"><img src="icons/telegram-icons8.png" height="30px"></img></a><br />
+<a href="https://t.me/alexeyuvv" target="_blank"><img src="icons/telegram-icons8.png" height="30px"></img></a><br />
 <a href="mailto:au25557@yandex.ru" target="_blank">au25557@yandex.ru</a>
 
 ## Some of my projects
